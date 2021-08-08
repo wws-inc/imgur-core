@@ -1,2 +1,2 @@
 # imgur-core
-Dotent Core authentication, authorization and API for Imgur
+.net core authentication, authorization and API for Imgur
